@@ -1,2 +1,5 @@
 # JS_wiki
-[numbers](https://github.com/GustavBrunszwig/JS_wiki/blob/main/numbers/random_number.md)
+Collection of JS notes, utility functions, helpers and solutions. 
+
+* [Utility Functions](https://github.com/GustavBrunszwig/JS_wiki/blob/main/utility_functions/utility_functions.md)
+  * [Numbers](https://github.com/GustavBrunszwig/JS_wiki/blob/main/utility_functions/numbers/numbers.md)
