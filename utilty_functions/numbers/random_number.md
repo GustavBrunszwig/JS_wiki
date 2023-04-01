@@ -7,17 +7,3 @@ const getRandomInt = (min, max) => {
 }
 
 ```
-
-
-### TODO
-- [ ] Random integer between two values
-- [ ] Random number between two values
-- [ ] ~~[Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)~~
-- [ ] SandBox?
-- [ ] [article](https://gomakethings.com/generating-random-numbers-with-vanilla-js/)
-- [ ] [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-- [ ] tests in SandBox?
-- [ ] TS?
-- [ ] Conversion check?
-- [ ] conversion force for strings
-- [ ] error handling
