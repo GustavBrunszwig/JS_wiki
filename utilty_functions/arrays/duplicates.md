@@ -6,7 +6,7 @@ const filterElements = (array) => {
   return Array.from(new Set(array));
 };
 ```
-
+---
 2. Remove duplicate object from array by an object value (**id**):
 
 ```
