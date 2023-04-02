@@ -7,7 +7,7 @@ const filterElements = (array) => {
 };
 ```
 ---
-2. Remove duplicate object from array by an object value:
+2. Filter objects from array by their duplicate value:
 
 ```
 const filterDuplicates = (array, key) => {
