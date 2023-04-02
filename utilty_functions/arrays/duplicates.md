@@ -7,15 +7,15 @@ const filterElements = (array) => {
 };
 ```
 ---
-2. Remove duplicate object from array by an object value (**id**):
+2. Remove duplicate object from array by an object value:
 
 ```
-const filterDuplicates = (array) => {
+const filterDuplicates = (array, key) => {
   const seen = new Set();
 
   const filteredArr = array.filter((el) => {
-    const duplicate = seen.has(el.id);
-    seen.add(el.id);
+    const duplicate = seen.has(el[key]);
+    seen.add(el[key]);
     return !duplicate;
   });
 
